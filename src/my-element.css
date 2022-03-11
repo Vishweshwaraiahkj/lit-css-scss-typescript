@@ -7,5 +7,5 @@ p {
 }
 
 h1 {
-    text-transform: uppercase;
+    text-transform: capitalize;
 }

@@ -11,7 +11,7 @@ export class MyElement extends LitElement {
   render() {
     return html`
       <div>
-          <h1>A simple LIT + SCSS + CSS Starter</h1>
+          <h1>A simple LIT, SASS, CSS and Typescript Starter</h1>
           Some random text in root of div!
           <p>A simple paragraph</p>
       </div>
