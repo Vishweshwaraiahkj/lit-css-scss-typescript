@@ -1,10 +1,10 @@
 # Lit Sass Css Typescript Starter
 
-This is a project that has a very simple setup for SASS + CSS + TS + Lit that uses rollup.
+This is a project with simple setup for Lit + Sass + Css + Typescript which uses rollup.
 
 ## Goals
 
-* Get started with Lit + SASS + TS
+* Get started with Lit + Css + Sass + Typescript
 * Learn how to setup rollup to support this config
 * Not tested with LIT 1
 
