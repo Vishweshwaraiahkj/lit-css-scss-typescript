@@ -2,7 +2,7 @@
 
 This is a project that has a very simple setup for SASS + CSS + TS + Lit that uses rollup.
 
-## Goals and Nons
+## Goals
 
 * Get started with Lit + SASS + TS
 * Learn how to setup rollup to support this config
